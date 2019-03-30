@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Este es el texto del Master
+=======
+Este es un texto
+>>>>>>> modifIndex
